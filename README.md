@@ -3,5 +3,5 @@ Exploring another new technology
 
 1. learning fundamentals 
 2. implementing fundamentals
-3. implement optimal approach
+3. implement optimal approach 
 4. optimize frontend
