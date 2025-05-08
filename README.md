@@ -1,2 +1,4 @@
 # Javascript
-Exploring another new technology
+Exploring another new technology 
+
+1. learning fundamentals 
